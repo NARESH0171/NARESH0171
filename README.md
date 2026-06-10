@@ -8,7 +8,7 @@ Software Engineer 💻 | Aspiring Cloud Engineer ☁️ | Cybersecurity Enthusia
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Business Systems (CSBS) Student
+- 🎓 Computer Science & Business Systems (CSBS)
 - ☁️ Learning Cloud Computing & AWS
 - 🔐 Interested in Cybersecurity & IAM
 - 💻 Building Software & Web Development Projects
